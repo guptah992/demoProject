@@ -1,3 +1,4 @@
 Java 
 It is a programming language.
 It is platform independent
+It is object-oriented language.
